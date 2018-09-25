@@ -5,4 +5,7 @@ adjectives = adjectives.concat([
     'discombobulated',
     'mysterious',
     'unflappable',
+    'wiley',
+    'dopey',
+    'funny'
 ]);
