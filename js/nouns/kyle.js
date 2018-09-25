@@ -2,5 +2,10 @@ nouns = nouns.concat([
     'man',
     'bear',
     'pig',
-    'bananas'
+    'ice-cream vendor',
+    'teacher',
+    'student',
+    'tiger',
+    'shepherd',
+    'sheep',
 ]);
